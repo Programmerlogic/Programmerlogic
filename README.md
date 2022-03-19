@@ -1,4 +1,4 @@
-BFS-DFS Code implementation
+BFS-DFS Code implementation.
 Three types of inputs are accepted:-
 * Enter a matrix in runtime
 * Enter the data of the connected vertices in the graph
