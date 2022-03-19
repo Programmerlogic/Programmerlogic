@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#define n 5
+#define n 5  			// Enter the matrix size
 
 int a[n][n];
 void dfs()
@@ -135,7 +135,6 @@ void matrix()
 		{
 			printf("Column %d :",j);
 			scanf("%d",&a[i][j]);
-			//a[i][j]=x;
 		}
 		printf("\n");
 	}
