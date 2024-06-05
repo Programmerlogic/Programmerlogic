@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shankhadeep Purkait currently pursuing Btech CSE at University of Calcutta 
 - 👀 I’m interested in AI/ML
 - 📫 How to reach me </br>
-Email: purkait144@gmail.com
+Email: purkait144@gmail.com </br>
 Linkedin: 
 
 <!---
