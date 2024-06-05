@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Programmerlogic
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Shankhadeep Purkait currently pursuing Btech CSE at University of Calcutta 
+- 👀 I’m interested in AI/ML
+- 📫 How to reach me 
+Email: purkait144@gmail.com
+Linkedin: 
 
 <!---
 Programmerlogic/Programmerlogic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
