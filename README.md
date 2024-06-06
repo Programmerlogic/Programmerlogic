@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI/ML
 - 📫 How to reach me </br>
 Email: purkait144@gmail.com </br>
-Linkedin: 
+Linkedin: https://www.linkedin.com/in/shankhadeep-purkait-b2b43924a/
 
 <!---
 Programmerlogic/Programmerlogic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
